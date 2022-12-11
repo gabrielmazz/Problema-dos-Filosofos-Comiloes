@@ -15,7 +15,7 @@
 - Para realizar a ação de comer, cada filósofo precisa ter os dois garfos em suas mãos, caso contrário ele estará no estado de espera
 - Após comer, os filósofos devem soltar os seus garfos na mesa e assim poderão começar a pensar
 - Deve-se levar em conta que cada filósofo tera uma quantidade específica de comida no prato e ao realizar o ato de comer, será retirada uma unidade de comida do prato
-- ![](https://blog.pantuza.com/uploads/675a2863bab6e110511e5925c4c339ee12e2d94e)
+- ![](filosofos.jpg)
 
 ### Código
 
